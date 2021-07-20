@@ -62,6 +62,11 @@ The report includes the following:
       * Item Price
       * Total Purchase Value
 
+### Insights
+1.    Majority (84%) players are male players. However, when we look at their purchasing pattern, we could see despite male players are making more purchases, female players are having a slightly higher average purchase price and average total purchase value per person.
+2.    The target age group for this game is age 15-29, around 76% of the players are within this age group. The highlight is the players between the age of 20-24, they have the highest total purchase value. 
+3.    The most popular item in the game is the ‘Final Critic’, which has been purchased by 13 times. This item does not have the highest item price, however, with the highest purchase count it became the most profitable item.
+
 
 ### Copyright
 
